@@ -6,4 +6,4 @@ Django Docker Boilerplate
 
 2) docker-compose build
 
-3) docker up
+3) docker-compose up
