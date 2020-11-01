@@ -2,8 +2,5 @@
 Django Docker Boilerplate
 
 
-1) docker build .
-
-2) docker-compose build
-
-3) docker-compose up
+run docker-compose up
+go to http://localhost:8000/
