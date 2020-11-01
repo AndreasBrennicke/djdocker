@@ -17,4 +17,4 @@ Django Docker Boilerplate
 
 8) docker-compose run app sh -c "django-admin.py startproject app ."
 
-9) docker up
+9) docker-compose up
